@@ -1,0 +1,78 @@
+.chatbot-icon {
+  background-color: rgba(10, 10, 10, 0.5);
+  border-radius: 50%;
+  padding: 0.8rem;
+  cursor: pointer;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.chat-bot-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+.chat-bot-header:hover {
+  background-color: rgba(255, 255, 255, 1);
+}
+.card-chat-body {
+  background: rgb(252, 252, 252);
+
+  /* background: linear-gradient(90deg, rgba(229,227,227,1) 0%, rgba(208,208,208,1) 15%, rgba(221,221,221,1) 88%, rgba(227,226,226,1) 100%, rgba(255,255,255,1) 100%, rgba(0,85,162,1) 100%); */
+}
+
+.chat-body {
+  height: calc(100vh - 12rem);
+  width: 25%;
+  position: fixed;
+  right: 1rem;
+  top: 25vh;
+}
+
+.chat-body h6 {
+  font-size: 20px;
+  margin: 0 0 20px;
+}
+
+.suggestion-words-container {
+  margin-bottom: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.suggestion-word {
+  margin-left: 0.5rem;
+  margin-top: 0.5rem;
+  cursor: pointer;
+}
+
+.custom-text-area {
+  max-height: 3.5rem;
+}
+
+/* ChatTextBox.css */
+
+.chat-text-box {
+  overflow: hidden;
+  transition: transform 300ms, opacity 300ms;
+}
+
+.slide-up {
+  transition: all 300ms ease-out;
+  opacity: 1;
+}
+
+.slide-down {
+  transition: all 500ms ease-out;
+  opacity: 0;
+}
+
+.chat-options-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.button-text-link {
+  width: 55%;
+}
