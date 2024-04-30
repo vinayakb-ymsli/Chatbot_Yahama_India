@@ -1,0 +1,244 @@
+{
+  "dealers": [
+    {
+      "dealer_id": "001",
+      "name": "Yamaha Motors Mumbai",
+      "location": "Mumbai, MH",
+      "pincode": "400001",
+      "contact": {
+        "phone": "022 1234 5678",
+        "email": "contact@yamahamotorsmumbai.in",
+        "website": "https://www.yamahamotorsmumbai.in"
+      },
+      "services_offered": ["Sales", "Service and Maintenance", "Financing"]
+    },
+    {
+      "dealer_id": "002",
+      "name": "Yamaha Central Delhi",
+      "location": "Delhi, DL",
+      "pincode": "110001",
+      "contact": {
+        "phone": "011 9876 5432",
+        "email": "info@yamahacentraldelhi.in",
+        "website": "https://www.yamahacentraldelhi.in"
+      },
+      "services_offered": ["Sales", "Parts", "Financing", "Insurance"]
+    },
+    {
+      "dealer_id": "003",
+      "name": "Kolkata Yamaha Powersports",
+      "location": "Kolkata, WB",
+      "pincode": "700001",
+      "contact": {
+        "phone": "033 2109 8765",
+        "email": "sales@kolkatayamahapowersports.in",
+        "website": "https://www.kolkatayamahapowersports.in"
+      },
+      "services_offered": ["Sales", "Service and Maintenance"]
+    },
+    {
+      "dealer_id": "004",
+      "name": "Chennai Yamaha Center",
+      "location": "Chennai, TN",
+      "pincode": "600001",
+      "contact": {
+        "phone": "044 4321 9876",
+        "email": "contact@chennaiyamahacenter.in",
+        "website": "https://www.chennaiyamahacenter.in"
+      },
+      "services_offered": ["Sales", "Parts", "Service and Maintenance", "Financing"]
+    },
+    {
+      "dealer_id": "005",
+      "name": "Yamaha Goa Marine",
+      "location": "Goa, GA",
+      "pincode": "403001",
+      "contact": {
+        "phone": "0832 1234 5678",
+        "email": "info@yamahagoamarine.in",
+        "website": "https://www.yamahagoamarine.in"
+      },
+      "services_offered": ["Sales", "Service and Maintenance", "Marine Equipment"]
+    },
+    {
+      "dealer_id": "006",
+      "name": "Yamaha Sports Bengaluru",
+      "location": "Bengaluru, KA",
+      "pincode": "560001",
+      "contact": {
+        "phone": "080 9876 5432",
+        "email": "sales@yamahasportsbengaluru.in",
+        "website": "https://www.yamahasportsbengaluru.in"
+      },
+      "services_offered": ["Sales", "Parts", "Adventure Gear"]
+    },
+    {
+      "dealer_id": "007",
+      "name": "Northern India Yamaha",
+      "location": "Chandigarh, CH",
+      "pincode": "160001",
+      "contact": {
+        "phone": "0172 8765 4321",
+        "email": "contact@northernindiayamaha.in",
+        "website": "https://www.northernindiayamaha.in"
+      },
+      "services_offered": ["Sales", "Service and Maintenance"]
+    },
+    {
+      "dealer_id": "008",
+      "name": "Yamaha Experience Jaipur",
+      "location": "Jaipur, RJ",
+      "pincode": "302001",
+      "contact": {
+        "phone": "0141 6543 2109",
+        "email": "experience@yamahajaipur.in",
+        "website": "https://www.yamahajaipur.in"
+      },
+      "services_offered": ["Sales", "Financing", "Insurance", "Riding Gear"]
+    },
+    {
+      "dealer_id": "009",
+      "name": "Pune Yamaha Adventure",
+      "location": "Pune, MH",
+      "pincode": "411001",
+      "contact": {
+        "phone": "020 4321 6543",
+        "email": "adventure@puneyamaha.in",
+        "website": "https://www.puneyamaha.in"
+      },
+      "services_offered": ["Sales", "Parts", "Financing", "Adventure Tours"]
+    },
+    {
+      "dealer_id": "010",
+      "name": "Yamaha City Ahmedabad",
+      "location": "Ahmedabad, GJ",
+      "pincode": "380001",
+      "contact": {
+        "phone": "079 2109 8765",
+        "email": "info@yamahacityahmedabad.in",
+        "website": "https://www.yamahacityahmedabad.in"
+      },
+      "services_offered": ["Sales", "Service and Maintenance", "Parts", "Financing"]
+    },
+    {
+      "dealer_id": "011",
+      "name": "Yamaha Motorcycles Indore",
+      "location": "Indore, MP",
+      "pincode": "452001",
+      "contact": {
+        "phone": "0731 3201 6522",
+        "email": "contact@yamahaindore.in",
+        "website": "https://www.yamahaindore.in"
+      },
+      "services_offered": ["Sales", "Service and Maintenance"]
+    },
+    {
+      "dealer_id": "012",
+      "name": "Yamaha Outdoors Coimbatore",
+      "location": "Coimbatore, TN",
+      "pincode": "641001",
+      "contact": {
+        "phone": "0422 4325 6789",
+        "email": "info@yamahacoimbatore.in",
+        "website": "https://www.yamahacoimbatore.in"
+      },
+      "services_offered": ["Sales", "Adventure Gear", "Financing"]
+    },
+    {
+      "dealer_id": "013",
+      "name": "Yamaha Watercraft Kochi",
+      "location": "Kochi, KL",
+      "pincode": "682001",
+      "contact": {
+        "phone": "0484 5432 1122",
+        "email": "sales@yamahakochi.in",
+        "website": "https://www.yamahakochi.in"
+      },
+      "services_offered": ["Sales", "Service and Maintenance", "Marine Equipment"]
+    },
+    {
+      "dealer_id": "014",
+      "name": "Yamaha Racing Lucknow",
+      "location": "Lucknow, UP",
+      "pincode": "226001",
+      "contact": {
+        "phone": "0522 6543 9876",
+        "email": "racing@yamahalucknow.in",
+        "website": "https://www.yamahalucknow.in"
+      },
+      "services_offered": ["Sales", "Parts", "Racing Gear"]
+    },
+    {
+      "dealer_id": "015",
+      "name": "Yamaha Adventure Patna",
+      "location": "Patna, BR",
+      "pincode": "800001",
+      "contact": {
+        "phone": "0612 9876 5432",
+        "email": "adventure@yamahapatna.in",
+        "website": "https://www.yamahapatna.in"
+      },
+      "services_offered": ["Sales", "Adventure Tours", "Financing"]
+    },
+    {
+      "dealer_id": "016",
+      "name": "Yamaha Motors Bhopal",
+      "location": "Bhopal, MP",
+      "pincode": "462001",
+      "contact": {
+        "phone": "0755 5221 5896",
+        "email": "contact@yamahabhopal.in",
+        "website": "https://www.yamahabhopal.in"
+      },
+      "services_offered": ["Sales", "Service and Maintenance", "Parts"]
+    },
+    {
+      "dealer_id": "017",
+      "name": "Yamaha Lifestyle Bhubaneswar",
+      "location": "Bhubaneswar, OR",
+      "pincode": "751001",
+      "contact": {
+        "phone": "0674 6021 7589",
+        "email": "lifestyle@yamahabhubaneswar.in",
+        "website": "https://www.yamahabhubaneswar.in"
+      },
+      "services_offered": ["Sales", "Lifestyle Gear", "Financing"]
+    },
+    {
+      "dealer_id": "018",
+      "name": "Yamaha Power Equipment Visakhapatnam",
+      "location": "Visakhapatnam, AP",
+      "pincode": "530001",
+      "contact": {
+        "phone": "0891 4632 9770",
+        "email": "power@yamahavisakhapatnam.in",
+        "website": "https://www.yamahavisakhapatnam.in"
+      },
+      "services_offered": ["Sales", "Service and Maintenance", "Power Equipment"]
+    },
+    {
+      "dealer_id": "019",
+      "name": "Yamaha Marine Surat",
+      "location": "Surat, GJ",
+      "pincode": "395007",
+      "contact": {
+        "phone": "0261 5492 6700",
+        "email": "marine@yamahasurat.in",
+        "website": "https://www.yamahasurat.in"
+      },
+      "services_offered": ["Sales", "Marine Equipment", "Financing"]
+    },
+    {
+      "dealer_id": "020",
+      "name": "Yamaha Urban Rides Jodhpur",
+      "location": "Jodhpur, RJ",
+      "pincode": "342001",
+      "contact": {
+        "phone": "0291 6331 8898",
+        "email": "urbanrides@yamahajodhpur.in",
+        "website": "https://www.yamahajodhpur.in"
+      },
+      "services_offered": ["Sales", "Urban Mobility Solutions", "Service and Maintenance"]
+    }
+  ]
+}

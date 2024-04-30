@@ -1,0 +1,65 @@
+{
+    "service_centers": [
+      {
+        "service_center_id": "S001",
+        "name": "Yamaha Service Mumbai",
+        "location": "Mumbai, MH",
+        "pincode": "400101",
+        "contact": {
+          "phone": "022 9876 5432",
+          "email": "service.mumbai@yamahaservice.in",
+          "website": "https://www.yamahaservicemumbai.in"
+        },
+        "services_offered": ["Routine Maintenance", "Accident Repairs", "Custom Modifications"]
+      },
+      {
+        "service_center_id": "S002",
+        "name": "Yamaha Mechanics Delhi",
+        "location": "Delhi, DL",
+        "pincode": "110011",
+        "contact": {
+          "phone": "011 6543 9876",
+          "email": "info.delhi@yamahamechanics.in",
+          "website": "https://www.yamahamechanicsdelhi.in"
+        },
+        "services_offered": ["Routine Maintenance", "Engine Repair", "Tire Services"]
+      },
+      {
+        "service_center_id": "S003",
+        "name": "Yamaha Workshop Kolkata",
+        "location": "Kolkata, WB",
+        "pincode": "700101",
+        "contact": {
+          "phone": "033 4321 8765",
+          "email": "workshop@yamahakolkata.in",
+          "website": "https://www.yamahaworkshopkolkata.in"
+        },
+        "services_offered": ["Routine Maintenance", "Bodywork", "Insurance Claims"]
+      },
+      {
+        "service_center_id": "S004",
+        "name": "Yamaha Expert Services Chennai",
+        "location": "Chennai, TN",
+        "pincode": "600101",
+        "contact": {
+          "phone": "044 7654 3210",
+          "email": "contact@yamahaexpertschennai.in",
+          "website": "https://www.yamahaexpertserviceschennai.in"
+        },
+        "services_offered": ["Routine Maintenance", "Electrical Repairs", "Performance Upgrades"]
+      },
+      {
+        "service_center_id": "S005",
+        "name": "Yamaha Tech Center Goa",
+        "location": "Goa, GA",
+        "pincode": "403201",
+        "contact": {
+          "phone": "0832 3210 6543",
+          "email": "tech@yamahagoa.in",
+          "website": "https://www.yamahatechcentergoa.in"
+        },
+        "services_offered": ["Routine Maintenance", "Marine Services", "Custom Paint Jobs"]
+      }
+    ]
+  }
+  

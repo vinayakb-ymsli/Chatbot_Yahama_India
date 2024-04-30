@@ -1,0 +1,17 @@
+.custom-navbar {
+  height: 5rem;
+}
+
+.nav-item a {
+  color: black;
+  font-weight: 500;
+  margin-right: 2rem;
+}
+
+.nav-item a:hover {
+  color: red;
+}
+
+.small-text {
+  font-size: 0.6rem;
+}

@@ -1,0 +1,12 @@
+.chatbot-section {
+  position: fixed;
+  bottom: 0rem;
+  right: 1rem;
+  width: 25%;
+  transition: all 3s ease-in-out;
+  box-shadow: 0 4px 8px rgba(30, 30, 30, 0.5); 
+  z-index: 100;
+  font-family: 'Roboto', sans-serif;
+}
+
+
