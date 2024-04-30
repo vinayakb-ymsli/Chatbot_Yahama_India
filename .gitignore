@@ -3,4 +3,4 @@ application\backend\venv
 application\backend\utils\__pycache__
 .vscode
 application\backend\trial.py
-application\backend\config.py
+config.py
